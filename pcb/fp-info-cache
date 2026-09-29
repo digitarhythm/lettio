@@ -1,4 +1,4 @@
-27026298788511797
+27026299304474960
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -105335,6 +105335,20 @@ Varistor VF
 0
 2
 2
+footprint
+JH16_Hole
+
+
+0
+0
+0
+footprint
+K-SILVER JH16
+
+
+0
+5
+5
 kbd_Hole
 Magnet_Hook_Female
 
@@ -106134,13 +106148,6 @@ _Choc_v2_Hotswap_1u
 2
 2
 kbd_SW_Hole
-JS16_Hole
-
-
-0
-0
-0
-kbd_SW_Hole
 PlateMount_225u
 
 
@@ -106462,13 +106469,6 @@ Stab_Hole_Choc_2u_Top
 0
 0
 0
-kbd_SW_Hole
-名称未設定
-
-
-0
-5
-1
 kbd_Stabilizer
 CherryMX_Stab_2u
 
